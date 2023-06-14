@@ -1,3 +1,5 @@
 .vscode
 /Test/*
 main.spec
+build
+dist 
